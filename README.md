@@ -15,7 +15,8 @@ This repository contains the implementation of a stochastic model to simulate an
 - [User Modifications](#user-modifications)
 
 ## Introduction
-The COVID-19 Stochastic Model aims to provide a detailed simulation of the virus's spread within the population of Ireland. By incorporating real data and using a particle filter, the model can produce accurate state estimates and time-varying reproduction number
+
+ By incorporating real data and using a particle filter, the model can produce accurate state estimates and time-varying reproduction number
 
 ## Model Description
 For a simple SEIR model, the modelled states are: susceptibles (S), exposed (E), infected (I) and removed (R).
