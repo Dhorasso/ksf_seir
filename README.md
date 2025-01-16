@@ -4,9 +4,6 @@ Implementation of a stochastic SEIR model using a kernel density-based particle 
 ## About
 This repository contains the implementation of a stochastic model to simulate and forecast the spread of COVID-19 in Ireland. The model is based on compartmental epidemiological structures and uses a sequeltial monte carlo to estimate and update state trajectories and model parameters over time. Link to the paper on arXiv [Link to the paper on arXiv](https://arxiv.org/abs/2408.15739)
 
-## Licence
-
-The code is freely distributed. If you find this code useful, please consider citing this repository.
 
 ## Table of Contents
 - [Introduction](#introduction)
